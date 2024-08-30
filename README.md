@@ -2,9 +2,7 @@
 ---
 ## Contact
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinn.as1999/)
-
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicyus-alves-dos-santos-3b9422273/)
-
 ![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 * `vinicyus.alves302@gmail.com`
 ---
