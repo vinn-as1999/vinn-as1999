@@ -40,7 +40,16 @@ Hi everyone, welcome to my personal Github profile! My name is Vinicyus and I'm 
 ![blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![blog](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vinn-as1999&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/vinn-as1999">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinn-as1999&show_icons=true&theme=dark#gh-dark-mode-only" style="margin-right: 20px;" />
+  </a>
+  
+  <a href="https://github.com/vinn-as1999">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-as1999&layout=compact&langs_count=16&theme=onedark"/>
+  </a>
+</div>
+
 
 
 
