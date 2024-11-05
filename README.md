@@ -46,7 +46,7 @@ Hi everyone, welcome to my personal Github profile! My name is Vinicyus and I'm 
   </a>
   
   <a href="https://github.com/vinn-as1999">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-as1999&layout=compact&langs_count=16&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn-as1999&layout=compact&langs_count=5&theme=onedark"/>
   </a>
 </div>
 
