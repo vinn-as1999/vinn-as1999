@@ -55,7 +55,6 @@ My name is Vinicyus and I'm from Brazil. I'm a dedicated developer focused on im
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=vinn-as1999&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vinn-as1999&layout=compact&theme=tokyonight" />
-  <img src="https://ghstats.dev/api/card?username=vinn-as1999&theme=tokyonight" />
 </div>
 
 ---
